@@ -1,6 +1,6 @@
 cask "findit" do
-  version "1.0.0"
-  sha256 "b665644166110175f015e0237de608fc7f6df64f3990da3c82d9d72ff9b06039"
+  version "1.0.1"
+  sha256 "d0fe2d7980acfb44cbbae2d914531128bff07749ae12fb5f716e9ddce9d7cadc"
 
   url "https://seyon.xyz/downloads/Findit-#{version}.dmg"
   name "Findit"
